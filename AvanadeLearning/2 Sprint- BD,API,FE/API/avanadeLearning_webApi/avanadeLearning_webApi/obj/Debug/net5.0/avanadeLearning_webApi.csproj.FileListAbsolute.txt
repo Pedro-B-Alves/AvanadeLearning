@@ -1,0 +1,427 @@
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.Development.json
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.json
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.exe
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.deps.json
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.json
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.dev.json
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\ref\avanadeLearning_webApi.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.pdb
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Humanizer.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.AssemblyReference.cache
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfoInputs.cache
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfo.cs
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CoreCompileInputs.cache
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cs
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cache
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.Manifest.cache
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.xml
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\scopedcss\bundle\avanadeLearning_webApi.styles.css
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.RazorTargetAssemblyInfo.cache
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CopyComplete
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\ref\avanadeLearning_webApi.dll
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.pdb
+A:\Repositorios\teste\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.genruntimeconfig.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.Development.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.exe
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.deps.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.dev.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\ref\avanadeLearning_webApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.xml
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Humanizer.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.AssemblyReference.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfoInputs.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfo.cs
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CoreCompileInputs.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cs
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.Manifest.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.xml
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\scopedcss\bundle\avanadeLearning_webApi.styles.css
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.RazorTargetAssemblyInfo.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CopyComplete
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\ref\avanadeLearning_webApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.xml
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.genruntimeconfig.cache
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.AssemblyReference.cache
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfoInputs.cache
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfo.cs
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CoreCompileInputs.cache
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cs
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cache
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.dll
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\ref\avanadeLearning_webApi.dll
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.xml
+D:\pedrao\Avanade\2 Sprint - BD e API\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.Development.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.exe
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.deps.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.dev.json
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\ref\avanadeLearning_webApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.xml
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\BCrypt.Net-Core.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Humanizer.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.AssemblyReference.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfoInputs.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfo.cs
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CoreCompileInputs.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cs
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.Manifest.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.xml
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\scopedcss\bundle\avanadeLearning_webApi.styles.css
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.RazorTargetAssemblyInfo.cache
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CopyComplete
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\ref\avanadeLearning_webApi.dll
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.xml
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.pdb
+A:\Repositorios\Meus Repositorios\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.genruntimeconfig.cache
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.Development.json
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.json
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.exe
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.deps.json
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.json
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.dev.json
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\ref\avanadeLearning_webApi.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.pdb
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.xml
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\BCrypt.Net-Core.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Humanizer.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfoInputs.cache
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfo.cs
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CoreCompileInputs.cache
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cs
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cache
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.Manifest.cache
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.xml
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\scopedcss\bundle\avanadeLearning_webApi.styles.css
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.RazorTargetAssemblyInfo.cache
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\ref\avanadeLearning_webApi.dll
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.xml
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.pdb
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.genruntimeconfig.cache
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.AssemblyReference.cache
+D:\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CopyComplete
+<<<<<<< HEAD
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.Development.json
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.json
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.exe
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.deps.json
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.json
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.dev.json
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\ref\avanadeLearning_webApi.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.pdb
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.xml
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\BCrypt.Net-Core.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Humanizer.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.AssemblyReference.cache
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfoInputs.cache
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfo.cs
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CoreCompileInputs.cache
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cs
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cache
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.Manifest.cache
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.xml
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\scopedcss\bundle\avanadeLearning_webApi.styles.css
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.RazorTargetAssemblyInfo.cache
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\ref\avanadeLearning_webApi.dll
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.xml
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.pdb
+D:\pedrao\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.genruntimeconfig.cache
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.exe
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.deps.json
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.json
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.runtimeconfig.dev.json
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\ref\avanadeLearning_webApi.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.pdb
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\avanadeLearning_webApi.xml
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.AssemblyReference.cache
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfoInputs.cache
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.AssemblyInfo.cs
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.csproj.CoreCompileInputs.cache
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.Manifest.cache
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\staticwebassets\avanadeLearning_webApi.StaticWebAssets.xml
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\scopedcss\bundle\avanadeLearning_webApi.styles.css
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\ref\avanadeLearning_webApi.dll
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.xml
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.pdb
+C:\Users\52391129831\Desktop\ped\Avanade\2 Sprint- BD,API,FE\API\avanadeLearning_webApi\avanadeLearning_webApi\obj\Debug\net5.0\avanadeLearning_webApi.genruntimeconfig.cache
+=======
+>>>>>>> 2876515b3dfe8d86cb1d9f58292fcd0646ea1c03
