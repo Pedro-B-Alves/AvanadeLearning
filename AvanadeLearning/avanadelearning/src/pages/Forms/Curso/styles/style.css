@@ -1,0 +1,36 @@
+.curseScreen{
+    background-color: #202024;
+    height: 100vh;
+}
+
+.displayColumn {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.curseReturn {
+    color: #fb5700;
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.curseRow{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    gap: 24px;
+}
+
+.svg{
+    color: #fb5700;
+}
+
+.curseReturn a{
+    display: flex;
+        
+    cursor: pointer;
+}
+
+/*  */

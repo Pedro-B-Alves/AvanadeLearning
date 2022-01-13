@@ -1,0 +1,89 @@
+.sectionAreaAround {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+  height: 100vh;
+  background-color: #121214;
+}
+.sectionFormArea {
+  background-color: #121214;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+}
+.sectionWithContent {
+  background-color: #121214;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  color: #ffffff;
+}
+.formFromSignIn {
+  background-color: #202024;
+  color: #ffffff;
+  padding: 65px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  width: 23%;
+  border-radius: 8px;
+}
+.formFromSignIn h1 {
+  padding-top: 0;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  font-size: 28px;
+  margin: 24px 0;
+}
+.gambi {
+  color: #fb5700;
+}
+.gambi:hover {
+  color: #cd4700;
+}
+.sectionWithContent h1 {
+  color: #fb5700;
+  font-size: 60px;
+}
+.logoArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sectionWithContent a {
+  color: #fb5700;
+  text-decoration: none;
+}
+.sectionWithContent a:hover {
+  color: #cd4700;
+}
+.textAreaRegister {
+  max-width: 400px;
+}
+.textAreaRegister h2 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: 36px;
+}
+.textAreaRegister h3 {
+  padding-bottom: 30px;
+}
+.termText {
+  text-align: center;
+}
+.logoArea img {
+  width: 80px;
+}
+.logoArea h1 {
+  font-size: 28px;
+}
+.linkRedirectLogin i {
+  margin-right: 10px;
+}
+.returnLoginArea {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

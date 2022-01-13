@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+.content{
+    width: 90%;
+    height: 100%;
+    max-width: 75em;
+    margin: auto;
+  
+
+}
+
+
+* {
+    margin: 0;
+}
+
+.flex-center-bt{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.areaT{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 154px;
+    background-color: #202024;
+}
+
+
+.titleA{
+    width: 1020px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.titleA h3{
+    max-width: 10em;
+    color: #ffff;
+    padding-left: 210px;
+}
+
+.search{
+    color:#fff;
+    width: 178px;
+    height: 20px;
+    border-radius: 5px;
+    /* display: flex;
+    justify-content: flex-end; */
+    border: 1px solid #121214;
+    background-color: #121214;
+}
+
+
+
+
+
+/* Area dos cursos */
+.areaKey{
+    height: 57.9vh;
+    background-color: #202024;
+    /* background-color: aqua; */
+}
+
+.tArea h3{
+    padding-left: 1.5em;
+    color: #ffff;
+}
+
+.card{
+    /* width: 574px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    margin-top: 1.5em;
+    margin-right: 1em;
+
+ 
+}
+.iconH{
+    color:#fff;
+    width: 10px;
+}
+.card3{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    margin-top: 1.5em;
+    margin-right: 1em;
+    
+}

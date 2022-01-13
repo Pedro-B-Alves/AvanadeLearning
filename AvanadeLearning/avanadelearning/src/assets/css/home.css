@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+
+* {
+    margin: 0;
+}
+.content{
+    width: 90%;
+    height: 100%;
+    max-width: 75em;
+    margin: auto;
+    /* background-color: #F67025; */
+}
+
+.flex-center-bt{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+/* Area do banner */
+
+.t img{
+    width: 1150px;
+    /* Com o position absolute a imagem ficou acima da div do banner */
+    position: absolute;
+ 
+}
+
+.sectionKey{
+    /* width: 100%;
+    height: 100%; */
+    /* position: absolute; */
+    background-color: #F67025;
+    top: 0;
+}
+
+/* .sectionKey img{
+    width: 60em;
+    z-index: 23;
+    
+} */
+
+.textBanner hr{
+    width: 235px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.textBanner h2{
+    font-family: 'Poppins', 'bold';
+}
+.textBanner hr, h2, p{
+    color: #FFFFFF;
+}
+
+.textBanner Button{
+    width: 170px;
+    color: #FFFFFF;
+    border:2px solid #ffffff;
+    
+    
+}
+
+.picture img{
+    width: 30em;    
+}
+
+
+/* Seção 2 */
+
+.sectionKeySecond{
+    background-color: #202024;
+}
+
+.bannerText img{   
+    width: 450px;
+}
+.bannerText{
+    width: 100%; 
+    height: 300px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #202024;
+}
+
+.textB p{
+    /*font-size: 24px; */
+    font-family: 'Poppins', sans-serif;
+    margin-top: 1em;
+}
+
+.textB{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    flex-direction: column;
+    max-width: 520px;
+    /* background-color: blue; */
+    /* padding-left: 30em; */
+}
+.textB h2{
+    font-size: 36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Seçao 3 */
+.sectionOver{
+    background-color: #202024;
+}
+.bText img{
+    width: 450px;
+    /* width: 506px;
+    height: 381px; */
+}
+
+.bText{
+    height: 500px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #202024;
+}
+
+.tb h2, p{
+    margin-bottom: 30px;
+}
+
+.tb{
+    padding-left: 15em;
+}
+
+.tb Button{
+    width: 198px;
+    color: #F67025;
+    border:2px solid #F67025;
+}
+
+
+/* rodape */
+.adress{
+    display: flex;
+    align-items: center; 
+    justify-content: space-around; 
+    ;
+    height: 115px;
+    background-color: black;
+}
+
+.adress p{
+    margin-top: 2em;
+    color: #FFFFFF;
+}
+/* .adress p{ 
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+ 
+} */
+

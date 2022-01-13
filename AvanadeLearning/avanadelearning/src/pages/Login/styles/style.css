@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+.bca,
+.rfa,
+.sca,
+.sfa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sca {
+  background-color: #121214;
+  color: #ffffff;
+}
+.bca {
+  flex-direction: column;
+  width: 50%;
+}
+.rfa {
+  width: 50%;
+}
+.bca,
+.rfa {
+  height: 100vh;
+}
+.sfa {
+  background-color: #202024;
+  width: 480px;
+  /* height: 750px; */
+  flex-direction: column;
+  border-radius: 6px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.fia {
+  display: flex;
+  /* align-items: flex-start; */
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 84%;
+}
+.fia h3 {
+  font-size: 28px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.fmpl {
+  color: #fb5700;
+  margin-bottom: 30px;
+  margin-top: -10px;
+}
+.fmlp:hover {
+  color: #111111;
+}
+.texttes {
+  font-size: 48px;
+}
+.nhal {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #a8a8b3;
+  font-weight: normal;
+}
+label {
+  position: relative;
+}
+label::after {
+  font-family: FontAwesome;
+  /* float: left; */
+  /* margin-left: -1.5em; */
+  content: "\f007";
+  color: #ffffff;
+
+  /* left: 15px; */
+  /* position: absolute; */
+  /* top: 21px; */
+  /* bottom: 0; */
+  /* margin: auto; */
+}
+label:nth-child(3)::after {
+  content: "\f13e";
+}
+
+/* .fia input:focus{
+    border: solid 2px red;
+} */
+.input {
+  outline: none;
+  border: none;
+  width: 350px;
+  height: 50px;
+  border: red solid 2px;
+}
+.fid i {
+  font-family: FontAwesome;
+  content: "\f007";
+}
+.fid:focus-within {
+  border: solid 2px green;
+}
+.llo {
+  text-decoration: none;
+  color: #fb5700;
+}
+.llo:hover {
+  color: #cd4700;
+}
+.fmpl:hover {
+  color: #cd4700;
+}
+.logoLoginArea h2 {
+  color: #fb5700;
+  font-size: 48px;
+  font-weight: bold;
+}
+.logoLoginArea {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

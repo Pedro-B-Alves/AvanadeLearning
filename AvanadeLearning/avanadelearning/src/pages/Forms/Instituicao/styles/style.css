@@ -1,0 +1,50 @@
+.displayColumn {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.instituteRow {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  gap: 24px;
+}
+.instituteScreen {
+  background-color: #202024;
+  height: 100vh;
+}
+.instituteReturn {
+  color: #fb5700;
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+.trBody {
+  word-break: break-word;
+}
+.trBody td {
+  font-size: 14px;
+  text-align: center;
+  /* background-color: #fb5700; */
+}
+.trBody tr {
+  background-color: #fb5700;
+}
+#icons {
+  display: flex;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+}
+.icon:hover {
+  color: #fb5700;
+}
+.formColumn {
+  display: flex;
+  flex-direction: column;
+}
+.formColumn a {
+  color: #fb5700;
+}
